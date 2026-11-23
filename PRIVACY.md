@@ -1,11 +1,11 @@
 # FloorCraft Privacy Policy
 
-**Last updated:** 12 November 2026
+**Last updated:** 23 November 2026
 **Applies to:** FloorCraft (iOS) and FloorCraft Pro (macOS)
 
 ## Who we are
 
-FloorCraft is a floor-plan scanning and editing app developed by **Umoview NZ Ltd**, a New Zealand registered company. Umoview NZ Ltd is the data controller for the information described in this policy. If you have any questions about this policy or how we handle your information, email **FloorCraftPro@gmail.com**.
+FloorCraft is a floor-plan scanning and editing app developed by **Justin Pitt**, an independent developer based in Auckland, New Zealand. Justin Pitt is the data controller for the information described in this policy. If you have any questions about this policy or how we handle your information, email **FloorCraftPro@gmail.com**.
 
 ## What this policy covers
 
